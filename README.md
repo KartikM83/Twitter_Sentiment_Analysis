@@ -15,7 +15,7 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 4. Predicting Sentiment: We demonstrate how to use the trained model to predict sentiment for new tweets.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle and can be found here: [Twitter Sentiment Analysis Dataset]((https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset)).
+The dataset used in this project is sourced from Kaggle and can be found here: [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset).
 
 ## Dependencies
 To run this project, you will need the following dependencies:
